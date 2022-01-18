@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Cairo';
+    font-size: 100px;
+    position: absolute;
+    margin-top: 0px;
+    top: 0px;
+    right: 23px;
+    margin-right: 0px;
+    text-shadow: 2px 3px rgb(12, 56, 29);
+}
